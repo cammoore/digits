@@ -22,7 +22,6 @@ const ListPage = async () => {
       owner,
     },
   });
-  console.log(contacts);
   return (
     <main>
       <Container id="list" fluid className="py-3">
